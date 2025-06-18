@@ -19,7 +19,7 @@ A lightweight, standalone FiveM script that displays your current **vehicle spee
 
 * 🚗 Real-time vehicle speed display with gear indicator.
 * ⚙️ Switch easily between KPH and MPH in the config.
-* 📍 Fixed bottom-right screen position for consistent HUD look.
+* 📍 Changable bottom-right screen position for consistent HUD look.
 * 🔄 Supports ESX and QBCore with no additional setup.
 * 🧠 Uses `ox_lib`’s `drawText` for smooth, clean UI.
 
