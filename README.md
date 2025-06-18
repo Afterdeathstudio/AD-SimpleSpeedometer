@@ -1,6 +1,6 @@
 # AD SimpleSpeedometer
 
-A lightweight, standalone FiveM script that displays your current **vehicle speed** and **gear** on screen. Built for both ESX and QBCore, it uses `ox_lib` for efficient drawing and offers configurable units (KPH or MPH) and fixed bottom-right positioning.
+A lightweight, standalone FiveM script that displays your current **vehicle speed** and **gear** on screen. Built for both ESX and QBCore, it uses `ox_lib` for efficient drawing and offers configurable units (KPH or MPH) and changable positioning.
 
 ## 💾 Download
 
